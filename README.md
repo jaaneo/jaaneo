@@ -1,40 +1,37 @@
-# Desarrollador Senior IoT y Especialista en Automatización Residencial 
+# Perfil Profesional
 
-Soy un **Desarrollador IoT Senior** con amplia experiencia en la implementación de soluciones de **automatización residencial**. A lo largo de mi carrera, he trabajado con diversas tecnologías y plataformas de vanguardia, ayudando a crear hogares inteligentes más eficientes, seguros y personalizados.
+![Profile Picture](https://avatars.githubusercontent.com/u/34485574?v=4) <!-- Reemplaza con tu imagen -->
 
-Tengo un profundo conocimiento de protocolos de comunicación como **Z-Wave**, **Zigbee**, y **KNX**, y he trabajado extensamente con marcas líderes del sector, como **Fibaro**, **Vimar**, y plataformas de integración como **Home Assistant** y **HomeKit**. También tengo experiencia en la **automatización con control de voz** utilizando **Alexa**, **Google Home** y **Siri**.
+## Desarrollador IoT Senior en Automatización Residencial
 
-## ![Skills](https://img.icons8.com/color/24/000000/brain.png) Habilidades y Competencias Técnicas
+![IoT Icon](https://img.icons8.com/material-outlined/24/000000/internet-of-things.png)  
+Desarrollador IoT con amplia experiencia en automatización residencial, manejando diversos protocolos de comunicación y marcas.
 
-- ![Communication](https://img.icons8.com/color/24/000000/wifi.png) **Protocolos de Comunicación**:
-  - WiFi, Bluetooth, RF, Z-Wave, Zigbee, KNX.
-- ![Integration](https://img.icons8.com/fluency/24/000000/device-manager.png) **Integración de Sistemas**:
-  - Fibaro, Vimar, Home Assistant, HomeKit.
-- ![Voice Control](https://img.icons8.com/color/24/000000/microphone.png) **Control de Voz**:
-  - Automatización con Alexa, Google Home, Siri.
-- ![Networking](https://img.icons8.com/color/24/000000/network.png) **Redes y Configuraciones**:
-  - Apoyo en la configuración de redes para el proyecto **Patagón - Supercomputador UACh** (Universidad Austral de Chile) en conjunto con un equipo en Brasil y Estados Unidos. Todo el trabajo se realizó en **terminal de Linux**, gestionando permisos de usuarios, configuraciones de VLAN, entre otros.
-  - Trabajo con marcas como **Ubiquiti**, **MikroTik**, y enlaces 4G.
-- ![CCTV](https://png.pngtree.com/png-clipart/20211121/original/pngtree-security-camera-vector-illustration-png-image_6947566.png | width=24) **CCTV IP y Seguridad**:
-  - Proyectos con cámaras radar, termales, PTZ, y reconocimiento de IA para detección de objetos y personas.
-  - Conocimientos en **Frigate** y sistemas de **control de acceso** para residencias y condominios.
-- ![Web Development](https://img.icons8.com/color/24/000000/source-code.png) **Desarrollo Web**:
-  - HTML, CSS, JavaScript, Node.js, TypeScript, Astro, WordPress.
-- ![CSS](https://img.icons8.com/color/24/000000/css-filetype.png) **Frameworks y Estilos**:
-  - Tailwind CSS.
-- ![Programming](https://img.icons8.com/color/24/000000/python--v1.png) **Lenguajes de Programación**:
-  - Python, JavaScript (Node.js), TypeScript.
-- ![Terminal](https://img.icons8.com/fluency/24/000000/console.png) **Herramientas de Desarrollo**:
-  - Bash, terminal, Linux.
-- ![Automation](https://img.icons8.com/color/24/000000/robot.png) **Automatización y Control**:
-  - Diseño e implementación de sistemas para hogares inteligentes, optimizando el uso de dispositivos conectados y mejorando la experiencia de los usuarios.
+### Experiencia
 
-## ![Experience](https://img.icons8.com/color/24/000000/work.png) Experiencia Destacada
+![Experience Icon](https://img.icons8.com/material-outlined/24/000000/experience.png)  
+- **Protocolos de Comunicación**: Z-Wave, Zigbee, KNX.
+- **Marcas**: Fibaro, Vimar, Home Assistant, HomeKit.
+- **Lenguajes y Herramientas**: HTML, CSS, JavaScript, Node.js, Python, TypeScript, Astro, WordPress, Tailwind, terminal Bash, Linux.
 
-He liderado proyectos de automatización de viviendas desde su planificación hasta la implementación, trabajando con un enfoque centrado en la eficiencia energética, la seguridad y la comodidad del usuario. Mi experiencia abarca desde la integración de dispositivos inteligentes hasta el desarrollo de aplicaciones personalizadas que mejoran la interacción y el control de los sistemas de automatización.
+### Automatización y Control
 
-Mi capacidad para combinar la **programación** con las soluciones de **automatización** me permite desarrollar sistemas robustos, personalizables y alineados con las necesidades específicas de cada cliente.
+![Automation Icon](https://img.icons8.com/material-outlined/24/000000/automation.png)  
+- **Control de Voz**: Conocimientos en automatización con Alexa, Google Home y Siri.
+- **CCTV**: Experiencia en proyectos de cámaras IP, incluyendo radares, termales y PTZ, con reconocimiento IA (objetos y personas), así como en Frigate y controles de acceso.
 
-## ![Contact](https://img.icons8.com/color/24/000000/communication.png) Contacto
+![CCTV Icon](https://img.icons8.com/material-outlined/24/000000/security-camera.png)  
 
-Si estás buscando soluciones innovadoras para tu hogar inteligente o proyectos de IoT, no dudes en ponerte en contacto conmigo. Estoy siempre abierto a nuevos desafíos y proyectos apasionantes que impulsen la tecnología del futuro.
+### Comunicación
+
+![Communication Icon](https://img.icons8.com/material-outlined/24/000000/communication.png)  
+- **Protocolos**: Wi-Fi, Bluetooth, RF.
+- **Configuraciones de Red**: Experiencia en configuraciones de red para el proyecto Patagón - Supercomputador UACh (Universidad Austral de Chile), trabajando con un equipo en Brasil y Estados Unidos, utilizando marcas como Ubiquiti, MikroTik y enlaces 4G.
+
+### Hitos Relevantes
+
+- **Apoyo en Configuraciones de Redes**: Contribuí en configuraciones de redes utilizando terminal de Linux, gestionando permisos de usuario, VLANs, etc., en el proyecto Patagón - Supercomputador UACh.
+
+---
+
+¡Estoy abierto a nuevas oportunidades y proyectos que desafíen mis habilidades y conocimientos!
