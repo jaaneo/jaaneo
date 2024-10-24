@@ -1,4 +1,4 @@
-# Desarrollador Senior IoT y Especialista en Automatización Residencial
+# Desarrollador Senior IoT y Especialista en Automatización Residencial 
 
 Soy un **Desarrollador IoT Senior** con amplia experiencia en la implementación de soluciones de **automatización residencial**. A lo largo de mi carrera, he trabajado con diversas tecnologías y plataformas de vanguardia, ayudando a crear hogares inteligentes más eficientes, seguros y personalizados.
 
@@ -26,6 +26,12 @@ Tengo un profundo conocimiento de protocolos de comunicación como **Z-Wave**, *
   - Python, JavaScript (Node.js), TypeScript.
 - ![Terminal](https://img.icons8.com/fluency/24/000000/console.png) **Herramientas de Desarrollo**:
   - Bash, terminal, Linux.
+- ![Git](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-git-software-flat-flat-juicy-fish.png) **Control de Versiones**:
+  - Git, GitHub.
+- ![Container](https://img.icons8.com/ios-filled/24/000000/docker.png) **Contenedores y Virtualización**:
+  - Docker.
+- ![Database](https://img.icons8.com/fluency/24/000000/mysql-logo.png) **Bases de Datos**:
+  - MySQL.
 - ![Automation](https://img.icons8.com/color/24/000000/robot.png) **Automatización y Control**:
   - Diseño e implementación de sistemas para hogares inteligentes, optimizando el uso de dispositivos conectados y mejorando la experiencia de los usuarios.
 
