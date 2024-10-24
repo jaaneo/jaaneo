@@ -1,32 +1,34 @@
 # Desarrollador IoT y Especialista en Automatización Residencial Senior
 
+![IoT](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-iot-internet-of-things-flaticons-flat-flat-icons.png)
+
 Soy un **Desarrollador IoT** con amplia experiencia en la implementación de soluciones de **automatización residencial**. A lo largo de mi carrera, he trabajado con diversas tecnologías y plataformas de vanguardia, ayudando a crear hogares inteligentes más eficientes, seguros y personalizados.
 
 Tengo un profundo conocimiento de protocolos de comunicación como **Z-Wave**, **Zigbee**, y **KNX**, y he trabajado extensamente con marcas líderes del sector, como **Fibaro**, **Vimar**, y plataformas de integración como **Home Assistant** y **HomeKit**.
 
-## Habilidades y Competencias Técnicas
+## ![Skills](https://img.icons8.com/color/48/000000/brain.png) Habilidades y Competencias Técnicas
 
-- **Protocolos de Comunicación**:
+- ![Communication](https://img.icons8.com/color/48/000000/signal.png) **Protocolos de Comunicación**:
   - Z-Wave, Zigbee, KNX.
-- **Integración de Sistemas**:
+- ![Integration](https://img.icons8.com/fluency/48/000000/device-manager.png) **Integración de Sistemas**:
   - Fibaro, Vimar, Home Assistant, HomeKit.
-- **Desarrollo Web**:
+- ![Web Development](https://img.icons8.com/color/48/000000/source-code.png) **Desarrollo Web**:
   - HTML, CSS, JavaScript, Node.js, TypeScript, Astro, WordPress.
-- **Frameworks y Estilos**:
+- ![CSS](https://img.icons8.com/color/48/000000/css-filetype.png) **Frameworks y Estilos**:
   - Tailwind CSS.
-- **Lenguajes de Programación**:
+- ![Programming](https://img.icons8.com/color/48/000000/python--v1.png) **Lenguajes de Programación**:
   - Python, JavaScript (Node.js), TypeScript.
-- **Herramientas de Desarrollo**:
+- ![Terminal](https://img.icons8.com/fluency/48/000000/console.png) **Herramientas de Desarrollo**:
   - Bash, terminal, Linux.
-- **Automatización y Control**:
+- ![Automation](https://img.icons8.com/external-outline-wichaiwi/64/000000/external-home-automation-iot-outline-outline-wichaiwi.png) **Automatización y Control**:
   - Diseño e implementación de sistemas para hogares inteligentes, optimizando el uso de dispositivos conectados y mejorando la experiencia de los usuarios.
 
-## Experiencia Destacada
+## ![Experience](https://img.icons8.com/color/48/000000/work-experience.png) Experiencia Destacada
 
 He liderado proyectos de automatización de viviendas desde su planificación hasta la implementación, trabajando con un enfoque centrado en la eficiencia energética, la seguridad y la comodidad del usuario. Mi experiencia abarca desde la integración de dispositivos inteligentes hasta el desarrollo de aplicaciones personalizadas que mejoran la interacción y el control de los sistemas de automatización.
 
 Mi capacidad para combinar la **programación** con las soluciones de **automatización** me permite desarrollar sistemas robustos, personalizables y alineados con las necesidades específicas de cada cliente.
 
-## Contacto
+## ![Contact](https://img.icons8.com/color/48/000000/communication.png) Contacto
 
 Si estás buscando soluciones innovadoras para tu hogar inteligente o proyectos de IoT, no dudes en ponerte en contacto conmigo. Estoy siempre abierto a nuevos desafíos y proyectos apasionantes que impulsen la tecnología del futuro.
