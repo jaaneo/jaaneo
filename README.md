@@ -1,6 +1,6 @@
 # Desarrollador IoT y Especialista en Automatización Residencial Senior
 
-![IoT](https://img.icons8.com/external-outline-juicy-fish/24/000000/external-iot-industrial-revolution-outline-outline-juicy-fish.png)
+![IoT](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-iot-internet-of-things-flat-flat-juicy-fish.png)
 
 Soy un **Desarrollador IoT** con amplia experiencia en la implementación de soluciones de **automatización residencial**. A lo largo de mi carrera, he trabajado con diversas tecnologías y plataformas de vanguardia, ayudando a crear hogares inteligentes más eficientes, seguros y personalizados.
 
@@ -9,7 +9,7 @@ Tengo un profundo conocimiento de protocolos de comunicación como **Z-Wave**, *
 ## ![Skills](https://img.icons8.com/color/24/000000/brain.png) Habilidades y Competencias Técnicas
 
 - ![Communication](https://img.icons8.com/color/24/000000/wifi.png) **Protocolos de Comunicación**:
-  - Z-Wave, Zigbee, KNX.
+  - WiFi, Bluetooth, RF, Z-Wave, Zigbee, KNX.
 - ![Integration](https://img.icons8.com/fluency/24/000000/device-manager.png) **Integración de Sistemas**:
   - Fibaro, Vimar, Home Assistant, HomeKit.
 - ![Web Development](https://img.icons8.com/color/24/000000/source-code.png) **Desarrollo Web**:
