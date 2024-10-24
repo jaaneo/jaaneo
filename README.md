@@ -1,4 +1,4 @@
-# Desarrollador IoT Senior con amplia experiencia en la implementación de soluciones de automatización residencial.
+# Desarrollador IoT Senior y Especialista en Automatización Residencial
 
 Soy un **Desarrollador IoT** con amplia experiencia en la implementación de soluciones de **automatización residencial**. A lo largo de mi carrera, he trabajado con diversas tecnologías y plataformas de vanguardia, ayudando a crear hogares inteligentes más eficientes, seguros y personalizados.
 
