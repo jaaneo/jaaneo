@@ -1,4 +1,6 @@
-# Desarrollador Senior IoT y Especialista en Automatización Residencial 
+# Desarrollador IoT y Especialista en Automatización Residencial Senior
+
+![IoT](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-iot-internet-of-things-flat-flat-juicy-fish.png)
 
 Soy un **Desarrollador IoT Senior** con amplia experiencia en la implementación de soluciones de **automatización residencial**. A lo largo de mi carrera, he trabajado con diversas tecnologías y plataformas de vanguardia, ayudando a crear hogares inteligentes más eficientes, seguros y personalizados.
 
@@ -15,7 +17,7 @@ Tengo un profundo conocimiento de protocolos de comunicación como **Z-Wave**, *
 - ![Networking](https://img.icons8.com/color/24/000000/network.png) **Redes y Configuraciones**:
   - Apoyo en la configuración de redes para el proyecto **Patagón - Supercomputador UACh** (Universidad Austral de Chile) en conjunto con un equipo en Brasil y Estados Unidos. Todo el trabajo se realizó en **terminal de Linux**, gestionando permisos de usuarios, configuraciones de VLAN, entre otros.
   - Trabajo con marcas como **Ubiquiti**, **MikroTik**, y enlaces 4G.
-- ![CCTV](https://img.icons8.com/color/24/000000/video-camera.png) **CCTV IP y Seguridad**:
+- ![CCTV](https://png.pngtree.com/png-clipart/20211121/original/pngtree-security-camera-vector-illustration-png-image_6947566.png) **CCTV IP y Seguridad**:
   - Proyectos con cámaras radar, termales, PTZ, y reconocimiento de IA para detección de objetos y personas.
   - Conocimientos en **Frigate** y sistemas de **control de acceso** para residencias y condominios.
 - ![Web Development](https://img.icons8.com/color/24/000000/source-code.png) **Desarrollo Web**:
