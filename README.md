@@ -10,12 +10,12 @@ Tengo un profundo conocimiento de protocolos de comunicación como **Z-Wave**, *
   - WiFi, Bluetooth, RF, Z-Wave, Zigbee, KNX.
 - ![Integration](https://img.icons8.com/fluency/24/000000/device-manager.png) **Integración de Sistemas**:
   - Fibaro, Vimar, Home Assistant, HomeKit.
-- ![Voice Control](https://img.icons8.com/color/24/000000/voice-assistant.png) **Control de Voz**:
+- ![Voice Control](https://img.icons8.com/color/24/000000/microphone.png) **Control de Voz**:
   - Automatización con Alexa, Google Home, Siri.
 - ![Networking](https://img.icons8.com/color/24/000000/network.png) **Redes y Configuraciones**:
   - Apoyo en la configuración de redes para el proyecto **Patagón - Supercomputador UACh** (Universidad Austral de Chile) en conjunto con un equipo en Brasil y Estados Unidos. Todo el trabajo se realizó en **terminal de Linux**, gestionando permisos de usuarios, configuraciones de VLAN, entre otros.
   - Trabajo con marcas como **Ubiquiti**, **MikroTik**, y enlaces 4G.
-- ![CCTV](https://img.icons8.com/color/24/000000/security-camera.png) **CCTV IP y Seguridad**:
+- ![CCTV](https://img.icons8.com/color/24/000000/video-camera.png) **CCTV IP y Seguridad**:
   - Proyectos con cámaras radar, termales, PTZ, y reconocimiento de IA para detección de objetos y personas.
   - Conocimientos en **Frigate** y sistemas de **control de acceso** para residencias y condominios.
 - ![Web Development](https://img.icons8.com/color/24/000000/source-code.png) **Desarrollo Web**:
