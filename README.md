@@ -1,6 +1,6 @@
 # Desarrollador IoT y Especialista en Automatización Residencial Senior
 
-![IoT](https://img.icons8.com/color/24/000000/internet-of-things.png)
+![IoT](https://img.icons8.com/external-outline-juicy-fish/24/000000/external-iot-industrial-revolution-outline-outline-juicy-fish.png)
 
 Soy un **Desarrollador IoT** con amplia experiencia en la implementación de soluciones de **automatización residencial**. A lo largo de mi carrera, he trabajado con diversas tecnologías y plataformas de vanguardia, ayudando a crear hogares inteligentes más eficientes, seguros y personalizados.
 
